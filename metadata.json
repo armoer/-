@@ -1,0 +1,6 @@
+{
+  "name": "城邦争霸",
+  "description": "城邦争霸：4人回合制像素风策略卡牌收集游戏。轮流发展城邦城市与兵力，率先达到目标繁荣度者夺取至尊王座！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
